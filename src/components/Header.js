@@ -1,15 +1,10 @@
 import React, { Component } from 'react';
 import axios from "axios";
 export default class Header extends Component {
+
   render() {
-    this.setState = {
-      test: "",
-    }
 
     let resumeData = this.props.resumeData;
-    const resp = axios.get("http://spring-test-ryan2.herokuapp.com/test");
-    this.test = resp.firstName;
-    console.log(resp);
 
     return (
       <React.Fragment>
@@ -20,7 +15,7 @@ export default class Header extends Component {
             <a className="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
             <ul id="nav" className="nav">
               <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-              <li><a className="smoothscroll" href="#about">{this.test}</a></li>
+              <li><a className="smoothscroll" href="#about">About</a></li>
               <li><a className="smoothscroll" href="#resume">Resume</a></li>
               <li><a className="smoothscroll" href="#portfolio">Works</a></li>
               {/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
