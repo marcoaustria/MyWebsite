@@ -230,6 +230,11 @@ ul#nav li.current a { color: #F06000; }
    font-size: 20px;
 }
 
+#emailimg{
+   width: 75%;
+   height: 75%
+}
+
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section

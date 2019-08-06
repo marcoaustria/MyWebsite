@@ -1,9 +1,10 @@
+
 let resumeData = {
   "imagebaseurl": "https://rbhatia46.github.io/",
   "name": "Marco Austria",
   "role": "",
   "linkedinId": "marcoaustria",
-  "roleDescription": "Software Engineer, with an Eye for Design~",
+  "roleDescription": "Software Engineer, with an ",
   "socialLinks": [
     {
       "name": "linkedin",

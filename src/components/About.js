@@ -34,7 +34,7 @@ export default class About extends Component {
                               {resumeData.address}
                            </span>
                            <br></br>
-                           <img src="/public/images/email.png" />
+                           <img src="/images/email.png" id="emailimg" />
 
                            <span></span>
                         </p>
