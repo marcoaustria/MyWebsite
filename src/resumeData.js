@@ -71,25 +71,25 @@ let resumeData = {
     {
       "name": "EnglishAide",
       "description": "React Native App",
-      "imgurl": "images/englishaide.png",
+      "imgurl": "./images/englishaide.png",
       "giturl": "https://github.com/marcoaustria/EnglishAide"
     },
     {
       "name": "CultureShock",
       "description": "Android App",
-      "imgurl": "images/cultureshock.png",
-      "giturl": ""
+      "imgurl": "./images/cultureshock.png",
+      "giturl": "https://github.com/zryan2/CultureShock"
     },
     {
       "name": "KrishnaLunch",
       "description": "Android App",
-      "imgurl": "images/krishnaapp.png",
+      "imgurl": "./images/krishnaapp.png",
       "giturl": "https://github.com/marcoaustria/KrishnaLunch"
     },
     {
       "name": "SportFolio",
       "description": "Web App",
-      "imgurl": "images/sportfolio.png",
+      "imgurl": "./images/sportfolio.png",
       "giturl": "https://github.com/GeorgeRPu/SportCards3"
     }
   ],
