@@ -75,22 +75,22 @@ let resumeData = {
       "giturl": "https://github.com/marcoaustria/EnglishAide"
     },
     {
-      "name": "Culture Shock",
+      "name": "CultureShock",
       "description": "Android App",
       "imgurl": "images/cultureshock.png",
       "giturl": ""
     },
     {
-      "name": "project3",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project2.png",
-      "giturl": ""
+      "name": "KrishnaLunch",
+      "description": "Android App",
+      "imgurl": "images/krishnaapp.png",
+      "giturl": "https://github.com/marcoaustria/KrishnaLunch"
     },
     {
-      "name": "project4",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/phone.jpg",
-      "giturl": ""
+      "name": "SportFolio",
+      "description": "Web App",
+      "imgurl": "images/sportfolio.png",
+      "giturl": "https://github.com/GeorgeRPu/SportCards3"
     }
   ],
   "testimonials": [
